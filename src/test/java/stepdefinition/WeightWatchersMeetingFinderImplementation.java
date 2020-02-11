@@ -35,8 +35,6 @@ public class WeightWatchersMeetingFinderImplementation extends BaseClass {
     String firstLocationName = null;
     String firstLocationAddress = null;
     String firstLocationCityZip = null;
-    String oldWindow;
-    Set<String> newWindow;
 
     @Given("^User navigates to the WeightWatchers website$")
     public void user_navigates_to_the_WeightWatchers_website() throws Throwable {

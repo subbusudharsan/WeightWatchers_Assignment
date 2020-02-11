@@ -1,9 +1,6 @@
 @Assignment3
 Feature: Weight Watchers - Automation
 
-  #Background: User launches the browser and navigates to the WeightWatchers
-  # Given User navigates to the WeightWatchers website
-
   @WW-meetingdetails
   Scenario: Verify and print number of meetings each person has in a week
     Given User navigates to the WeightWatchers website
