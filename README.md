@@ -21,6 +21,6 @@ Assignment 2#
 https://user-images.githubusercontent.com/56117678/74208638-75773f80-4c52-11ea-8557-8ee204bf2cc0.png
 
 Assignment 3#
-* Console output will have 500 random number as will as nth number
+* Console output will have 500 random numbers as will as nth smallest number
 
 https://user-images.githubusercontent.com/56117678/74208551-0994d700-4c52-11ea-93c7-4da9715c876f.png
